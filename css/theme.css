@@ -5088,7 +5088,7 @@ section + .portfolio-pullup {
 }
 .modal-strip .close-modal {
   position: absolute;
-  right: 32px;
+  left: 32px;
   top: 50%;
   cursor: pointer;
   transform: translateY(-50%);
