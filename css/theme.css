@@ -68,6 +68,22 @@
 }
 
 
+       
+.footer-grid-container
+{
+                  display: grid;
+                  grid-template-columns: auto auto auto;
+                  background-color: #222229;
+                  padding: 10px;
+}
+.footer-grid-item 
+{
+                  background-color: #222229;
+                  border: 1px none #222229;
+                  padding: 20px;
+                  font-size: 30px;
+                  text-align: center;
+}
 
 
 
